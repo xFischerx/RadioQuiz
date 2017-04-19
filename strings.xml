@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">RadioQuiz</string>
+    <string name="lbTitulo">Quiz</string>
+    <string name="lbPergunta1">1. A expressão 4 != 9 irá retornar:</string>
+    <string name="rbResposta11">True</string>
+    <string name="rbResposta12">False</string>
+    <string name="lbPergunta2">2. Qual das expressões representa um comentário válido?</string>
+    <string name="rbResposta21">/* Comentário /</string>
+    <string name="rbResposta22">// Comentário</string>
+    <string name="lbPergunta3">3. Qual o resultado de: 10 % 3?</string>
+    <string name="rbResposta31">False</string>
+    <string name="rbResposta32">1</string>
+    <string name="lbPergunta4">4. A expressão int status = true; está correta?</string>
+    <string name="rbResposta41">Sim</string>
+    <string name="rbResposta42">Não, pois true é boleano</string>
+    <string name="lbPergunta5">5. System.out.println(5 + 5 != 110 % 100) irá retornar:</string>
+    <string name="rbResposta51">False</string>
+    <string name="rbResposta52">10</string>
+    <string name="btnResponder">Responder</string>
+</resources>
